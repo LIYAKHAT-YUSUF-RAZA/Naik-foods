@@ -299,7 +299,7 @@ npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite, normally `http://localhost:5173/`.
+Open the local URL printed by Vite, normally `https://naik-foods-o4u8.onrender.com/`.
 
 ## Validation Commands
 
